@@ -22,3 +22,11 @@ This project leverages the PhiData framework to build intelligent AI agents for 
 
 
 The system will utilize Deepseek and QWEN APIs for enhanced data retrieval and analysis, ensuring accurate and up-to-date financial insights. For the API's I have used free tier versions of Groq.
+
+## How to Implement the following codes locally?
+
+1. Clone the repository
+
+2. Fetch DeepSeek and QWEN API keys from the Groq Website
+
+3. Save those in the same folder in .env files
